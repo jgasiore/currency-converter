@@ -7,10 +7,10 @@ https://jgasiore.github.io/currency-converter/
 ## General Info
 The subject of this page is a currency converter. In the center of the page is the form window, which contains two elements:
 
-- a field for typing the amount in the selected currency
+- a field for typing the amount in PLN
 - a field for selecting a currency from a drop-down list
   
-After you fill the form, click the "Convert" button to get the amount in PLN.
+After you fill the form, click the "Convert" button to get the amount in selected currency.
 
 ## Technologies
 Project is created with:
