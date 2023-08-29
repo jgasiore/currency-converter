@@ -1,6 +1,7 @@
 .container {
+    color: rgba(245, 245, 245, 0.819);
     max-width: 700px;
-    margin: 0 auto;
+    margin: auto;
     padding: 0 20px;
 }
 
